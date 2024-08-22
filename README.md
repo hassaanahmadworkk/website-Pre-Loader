@@ -44,4 +44,4 @@ For any issues or customization support, please feel free to reach out via GitHu
 
 ## License
 
-This preloader template is open-source and available under the [MIT License](LICENSE).
+This preloader template is open-source and available under the 
